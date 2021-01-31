@@ -53,7 +53,7 @@ this is a basic calculator program ,you have to put your data and calculate resu
 
 ## What next?
 
-I done basic course of python,it is very easy and motivate me to go deep and learn more
+I did basic course of python,it is very easy and motivate me to go deep and learn more
 
 
 ## Acknowledgments
